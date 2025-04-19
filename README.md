@@ -1,3 +1,13 @@
+# Minisurf
+
+![image-20250419164034041](https://s2.loli.net/2025/04/19/rxHEWo76GYPbBCO.png)
+
+## Introduction
+
+This is the source code of the SIGGRAPH Paper "Asymptotic analysis and design of linear elastic shell lattice metamaterials".
+
+
+
 ## Compilation
 
 The dependent libraries are packed into a conda environment, you can create it by
